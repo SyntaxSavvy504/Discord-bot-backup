@@ -1,9 +1,0 @@
-{
-  "botToken": "MTI5NDAyODEwNjI4MTI1OTEwMQ.GchE1t.NDptJwxwWzRZsVA-adGqTIBkh42BeoVf6lEnOI",
-  "mongoUri": "mongodb://admin:ADMINCLUSTER1@dono-01.danbot.host:2278/?authSource=admin",
-  "logChannelId": "1295033181191540827",
-  "responseChannelId": "1295038321889775636",
-  "channelId": "APPLICATION_CHANNEL_ID",
-  "feedbackChannelId": "FEEDBACK_CHANNEL_ID",
-  "allowedRoles": ["1293895426344226878"]
-}
